@@ -1,3 +1,10 @@
 hello i am  a txt file
 
 I am having fun learning git
+
+git add remote origin <url>
+git branch -M main
+git push -u origin main
+
+commit 1
+commit 2
